@@ -1,0 +1,10 @@
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.AssemblyReference.cache
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+S:\Visual studio\repos\CelsiusToFahrenheit\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
