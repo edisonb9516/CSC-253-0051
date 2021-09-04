@@ -1,0 +1,10 @@
+S:\Visual studio\repos\KineticEnergy\WinUI\bin\Debug\WinUI.exe.config
+S:\Visual studio\repos\KineticEnergy\WinUI\bin\Debug\WinUI.exe
+S:\Visual studio\repos\KineticEnergy\WinUI\bin\Debug\WinUI.pdb
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.KineticEnergyForm.resources
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.exe
+S:\Visual studio\repos\KineticEnergy\WinUI\obj\Debug\WinUI.pdb
