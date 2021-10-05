@@ -1,0 +1,5 @@
+C:\Users\edisonb9516\source\repos\PersonnelDatabase\PersonnelDBClassLib\bin\Debug\PersonnelDBClassLib.dll
+C:\Users\edisonb9516\source\repos\PersonnelDatabase\PersonnelDBClassLib\bin\Debug\PersonnelDBClassLib.pdb
+C:\Users\edisonb9516\source\repos\PersonnelDatabase\PersonnelDBClassLib\obj\Debug\PersonnelDBClassLib.csproj.CoreCompileInputs.cache
+C:\Users\edisonb9516\source\repos\PersonnelDatabase\PersonnelDBClassLib\obj\Debug\PersonnelDBClassLib.dll
+C:\Users\edisonb9516\source\repos\PersonnelDatabase\PersonnelDBClassLib\obj\Debug\PersonnelDBClassLib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{BD5412B1-C3AD-4A56-8225-495B91BFAF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelDBClassLib", "PersonnelDBClassLib\PersonnelDBClassLib.csproj", "{49191239-14AF-4774-9E46-4EEF31198C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5412B1-C3AD-4A56-8225-495B91BFAF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5412B1-C3AD-4A56-8225-495B91BFAF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5412B1-C3AD-4A56-8225-495B91BFAF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5412B1-C3AD-4A56-8225-495B91BFAF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49191239-14AF-4774-9E46-4EEF31198C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49191239-14AF-4774-9E46-4EEF31198C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49191239-14AF-4774-9E46-4EEF31198C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49191239-14AF-4774-9E46-4EEF31198C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557EC0D0-2AB0-43A6-BADB-8090899A7F79}
+	EndGlobalSection
+EndGlobal
