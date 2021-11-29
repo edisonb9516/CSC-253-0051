@@ -1,0 +1,6 @@
+S:\WinformForEmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.dll
+S:\WinformForEmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.pdb
+S:\WinformForEmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.AssemblyReference.cache
+S:\WinformForEmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.CoreCompileInputs.cache
+S:\WinformForEmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.dll
+S:\WinformForEmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.pdb
