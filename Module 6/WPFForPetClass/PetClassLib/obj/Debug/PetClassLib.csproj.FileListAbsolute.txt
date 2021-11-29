@@ -1,0 +1,6 @@
+C:\Users\bedis\source\repos\WPFForPetClass\PetClassLib\bin\Debug\PetClassLib.dll
+C:\Users\bedis\source\repos\WPFForPetClass\PetClassLib\bin\Debug\PetClassLib.pdb
+C:\Users\bedis\source\repos\WPFForPetClass\PetClassLib\obj\Debug\PetClassLib.csproj.AssemblyReference.cache
+C:\Users\bedis\source\repos\WPFForPetClass\PetClassLib\obj\Debug\PetClassLib.csproj.CoreCompileInputs.cache
+C:\Users\bedis\source\repos\WPFForPetClass\PetClassLib\obj\Debug\PetClassLib.dll
+C:\Users\bedis\source\repos\WPFForPetClass\PetClassLib\obj\Debug\PetClassLib.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="425" Width="650">
+    <Grid>
+        <Button x:Name="EnterPetButton" Content="Enter Pet Information" HorizontalAlignment="Left" Height="72" Margin="10,301,0,0" VerticalAlignment="Top" Width="230" Click="EnterPetButton_Click"/>
+        <Button x:Name="ExitButton" Content="Exit" HorizontalAlignment="Left" Height="72" Margin="369,301,0,0" VerticalAlignment="Top" Width="230" Click="ExitButton_Click"/>
+        <ListBox x:Name="PetListBox" HorizontalAlignment="Left" Height="94" Margin="10,186,0,0" VerticalAlignment="Top" Width="589"/>
+        <Label x:Name="PetNameLabel" Content="Enter Pet Name: " HorizontalAlignment="Left" Height="33" Margin="59,25,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label x:Name="PetTypeLabel" Content="Enter The Type of Pet: " HorizontalAlignment="Left" Height="33" Margin="59,78,0,0" VerticalAlignment="Top" Width="126"/>
+        <Label x:Name="PetAgeLabel" Content="Enter Pet Age:" HorizontalAlignment="Left" Height="33" Margin="59,126,0,0" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="PetNameTextBox" HorizontalAlignment="Left" Height="33" Margin="289,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="227"/>
+        <TextBox x:Name="PetTypeTextBox" HorizontalAlignment="Left" Height="33" Margin="289,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="227"/>
+        <TextBox x:Name="PetAgeTextBox" HorizontalAlignment="Left" Height="33" Margin="289,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="227"/>
+
+    </Grid>
+</Window>
